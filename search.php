@@ -8,36 +8,36 @@
 
 	<div class="wrapper">
 
-    <div class="header">
+        <div class="header">
 
-      <div class="headerContent">
+            <div class="headerContent">
 
-        <div class="logoContainer">
-            <a href="index.php">
-                <img src="assets/images/doodleLogo.png">
-            </a>
-        </div>
-
-        <div class="searchContainer">
-
-            <form action="search.php" method="GET">
-
-                <div class="searchBarContainer">
-
-                    <input class="searchBox" type="text" name="term">
-                    <button>
-                        Search
-                    </button>
-
+                <div class="logoContainer">
+                    <a href="index.php">
+                        <img src="assets/images/doodleLogo.png">
+                    </a>
                 </div>
+
+                <div class="searchContainer">
+
+                    <form action="search.php" method="GET">
+
+                        <div class="searchBarContainer">
+
+                            <input class="searchBox" type="text" name="term">
+                            <button>
+                                Search
+                            </button>
+
+                        </div>
+                        
+                    </form>
                 
-            </form>
-        
-        </div>
+                </div>
 
-      </div>
+            </div>
 
-    </div>  
+        </div>  
 
 	</div>
 
