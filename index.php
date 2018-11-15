@@ -22,6 +22,7 @@
 					<input class="searchButton" type="submit" value="Search">
 					
 				</form>
+				
 			</div>
 
 		</div>
